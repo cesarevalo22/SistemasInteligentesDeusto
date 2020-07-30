@@ -1,2 +1,0 @@
-# SistemasInteligentesDeusto
-Proyectos del Semestre
